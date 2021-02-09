@@ -1,0 +1,33 @@
+.block1 {
+    padding-left: 400px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 400px;
+}
+
+.block2 {
+    padding-left: 400px;
+}
+
+.block3 {
+    padding-left: 350px;
+}
+
+h1 {
+    color: rgb(14, 13, 13);
+    font-size: 40px;
+    font-style: italic;
+    font-family: cursive;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+a {
+    color: tomato;
+    font-size: 40px;
+    font-style: italic;
+    font-family: cursive;
+}
